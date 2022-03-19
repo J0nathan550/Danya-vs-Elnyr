@@ -1,0 +1,50 @@
+{
+	"storyName": "BRoy Tak Ne delayt...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Unexpected call",
+			"danya",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Beating My meat",
+			"danya",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Brawl Stars",
+			"danya",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"danya",
+		"",
+		"elnyr"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Unexpected Call"
+}

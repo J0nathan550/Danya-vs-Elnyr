@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danya",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Brooo.. I need to call my boy Elnyr\\nProbably he doing nothing as usual."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danya",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*calling*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elnyr",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "OH MAH... FUCKING"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elnyr",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "PFFTT... NOOooo.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danya",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "Yo bro, what do you want son?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danya",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ain't shit bro was goin' what you fucking with?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "I'm beating my meat you fucked up whole shit..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danya",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WOW..\\nAight bro my fool.."
+		}
+	]
+}
